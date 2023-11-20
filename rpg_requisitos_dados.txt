@@ -1,0 +1,47 @@
+SERVIDOR:
+- nome
+- população máxima
+- está online?
++ Um 'servidor' comporta vários 'personagens jogáveis'
++ Um 'servidor' comporta vários 'monstros'
+
+CONTA:
+- email
+- hash da senha
+- data criação
++ Uma 'conta' comporta vários 'personagens jogáveis'
+
+PERSONAGEM:
+- nome
+- posição
+- velocidade
+- pontos de vida
++ Um 'personagem' deve ser um 'personagem jogável' ou um 'monstro'
+
+ITEM:
+- nome
+- valor
+- ataque
+- defesa
++ Um 'item' pode pertencer a um 'personagem'
+
+PERSONAGEM JOGÁVEL:
+- nível
+- quantidade dinheiro
+- sexo
+- está online?
++ Todo 'personagem jogável' possui uma 'classe'
+
+MONSTRO:
+- ataque
+- defesa
+
+CLASSE:
+- nome
+- ataque
+- defesa
++ Uma 'classe' pode possuir várias 'habilidades'
+
+HABILIDADE:
+- nome
+- dano

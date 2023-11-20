@@ -1,0 +1,20 @@
+- quantos 'servidores' existem?
+- quais os nomes dos 'servidores'?
+- quantas 'contas' foram criadas em um determinado período?
+- qual é o nível médio dos 'personagens jogáveis' de uma determinada conta?
+- quantos 'personagens jogáveis' uma determinada 'conta' possui?
+- quantos 'personagens jogáveis' estão vinculados a um determinado 'servidor'?
+- quantos 'personagens jogáveis' estão online em um determinado 'servidor'?
+- quantos 'personagens jogáveis' são de uma determinada 'classe'?
+- quais são os 3 'personagens jogáveis' com maior nível?
+- quais são os 3 'personagens jogáveis' mais ricos?
+- qual a razão entre 'personagens jogáveis' do sexo feminino em relação ao masculino?
+- quais 'personagens jogáveis' possuem o 'item' de maior valor?
+- quais 'monstros' carregam o 'item' de maior defesa?
+- quais os 'itens' mais abundantes entre os 'personagens jogáveis'?
+- quais os 'monstros' mais velozes?
+- quais 'monstros' possuem a maior razão entre ataque e pontos de vida?
+- quais 'classes' possuem a maior quantidade de 'habilidades'?
+- quais as 'classes' dos 'personagens jogáveis' de nível mais alto?
+- quais 'classes' possuem a 'habilidade' que causa a maior dano?
+- quais 'classes' possuem maior defesa?
